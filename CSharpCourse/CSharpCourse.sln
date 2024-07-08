@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesAndVeriables", "TypesAndVeriables\TypesAndVeriables.csproj", "{DC78D429-8464-42BE-8F29-FD5A0E8FD76B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesAndVeriabless", "TypesAndVeriabless\TypesAndVeriabless.csproj", "{B71DEEDC-FA67-453B-BE73-CD1DFDF917C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{6413D738-2196-403F-8142-F8FF6433D33A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DC78D429-8464-42BE-8F29-FD5A0E8FD76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DC78D429-8464-42BE-8F29-FD5A0E8FD76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DC78D429-8464-42BE-8F29-FD5A0E8FD76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DC78D429-8464-42BE-8F29-FD5A0E8FD76B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B71DEEDC-FA67-453B-BE73-CD1DFDF917C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B71DEEDC-FA67-453B-BE73-CD1DFDF917C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B71DEEDC-FA67-453B-BE73-CD1DFDF917C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B71DEEDC-FA67-453B-BE73-CD1DFDF917C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6413D738-2196-403F-8142-F8FF6433D33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6413D738-2196-403F-8142-F8FF6433D33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6413D738-2196-403F-8142-F8FF6433D33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6413D738-2196-403F-8142-F8FF6433D33A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
