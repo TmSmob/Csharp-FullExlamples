@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Arrays\obj\Debug\Arrays.pdb
