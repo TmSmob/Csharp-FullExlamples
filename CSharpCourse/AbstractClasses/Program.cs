@@ -14,7 +14,6 @@ namespace AbstractClasses
             sqlServer.Add();
             sqlServer.Delete();
             Console.ReadLine();
-            Database database = new Database();
         }
         abstract class Database
         {
