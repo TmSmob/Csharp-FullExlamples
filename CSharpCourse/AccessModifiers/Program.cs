@@ -41,5 +41,6 @@ namespace AccessModifiers
     internal  class Course
     {
         public string Name { get; set; }
+
     }
 }
