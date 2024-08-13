@@ -1,0 +1,10 @@
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\AdoNetDemo\obj\Debug\18-AdoNetDemo.csproj.AssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\AdoNetDemo\obj\Debug\18-AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\AdoNetDemo\obj\Debug\18-AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
