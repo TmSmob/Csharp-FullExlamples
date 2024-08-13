@@ -68,7 +68,7 @@ namespace AdoNetDemo
             _productDal.Delete(id);
             LoadProduts();
             MessageBox.Show("Product Deleted!!!");
-d
+
         }
     }
 }
