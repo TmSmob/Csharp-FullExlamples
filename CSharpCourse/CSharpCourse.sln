@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-Exceptions", "Exceptions
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-AdoNetDemo", "AdoNetDemo\18-AdoNetDemo.csproj", "{711142B8-23C2-4322-9EAE-98A19C7B3EBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneme", "Deneme\Deneme.csproj", "{AA720A32-ADBB-4C7C-B7EC-BEC28DCA9DBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitiyFrameWork", "EntitiyFrameWork\EntitiyFrameWork.csproj", "{59986222-1C1C-4F51-825B-FAFF288799B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{711142B8-23C2-4322-9EAE-98A19C7B3EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{711142B8-23C2-4322-9EAE-98A19C7B3EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{711142B8-23C2-4322-9EAE-98A19C7B3EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA720A32-ADBB-4C7C-B7EC-BEC28DCA9DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA720A32-ADBB-4C7C-B7EC-BEC28DCA9DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA720A32-ADBB-4C7C-B7EC-BEC28DCA9DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA720A32-ADBB-4C7C-B7EC-BEC28DCA9DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59986222-1C1C-4F51-825B-FAFF288799B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59986222-1C1C-4F51-825B-FAFF288799B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59986222-1C1C-4F51-825B-FAFF288799B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59986222-1C1C-4F51-825B-FAFF288799B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

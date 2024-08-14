@@ -70,5 +70,10 @@ namespace AdoNetDemo
             MessageBox.Show("Product Deleted!!!");
 
         }
+
+        private void dgwProducts_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

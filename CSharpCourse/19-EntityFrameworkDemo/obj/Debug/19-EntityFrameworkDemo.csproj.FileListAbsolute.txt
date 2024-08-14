@@ -1,0 +1,15 @@
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\bin\Debug\19-EntityFrameworkDemo.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\bin\Debug\19-EntityFrameworkDemo.exe
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\bin\Debug\19-EntityFrameworkDemo.pdb
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\obj\Debug\19-EntityFrameworkDemo.csproj.AssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\obj\Debug\_19_EntityFrameworkDemo.Form1.resources
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\obj\Debug\_19_EntityFrameworkDemo.Properties.Resources.resources
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\obj\Debug\19-EntityFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\obj\Debug\19-EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\obj\Debug\19-Entit.E9C5893A.Up2Date
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\obj\Debug\19-EntityFrameworkDemo.exe
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\19-EntityFrameworkDemo\obj\Debug\19-EntityFrameworkDemo.pdb
