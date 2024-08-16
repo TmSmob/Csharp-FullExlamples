@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Attributes\bin\Debug\Attributes.exe
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Attributes\bin\Debug\Attributes.pdb
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Attributes\obj\Debug\Attributes.csproj.AssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Attributes\obj\Debug\Attributes.exe
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Attributes\obj\Debug\Attributes.pdb
