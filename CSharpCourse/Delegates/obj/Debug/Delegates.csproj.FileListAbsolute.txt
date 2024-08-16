@@ -1,0 +1,7 @@
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Delegates\bin\Debug\Delegates.exe
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Delegates\bin\Debug\Delegates.pdb
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Delegates\obj\Debug\Delegates.exe
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\CSharpCourse\Delegates\obj\Debug\Delegates.pdb

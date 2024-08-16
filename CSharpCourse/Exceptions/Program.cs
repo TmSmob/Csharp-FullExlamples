@@ -11,6 +11,38 @@ namespace Exceptions
         static void Main(string[] args)
         {
             //ExceptionIntro();
+            //TryCatch();
+            //Method
+            //ActionDemo();
+
+            Func<int, int, int> add = Topla;
+            Console.WriteLine(add(3,5));
+
+            //Console.WriteLine(Topla(2,3));
+
+
+            Func<int> getRandomNumer = delegate()
+            {
+                Random random = new Random();
+                return random.Next(1, 100);
+            };
+            Console.WriteLine(getRandomNumer());
+
+            Console.ReadLine();
+        }
+
+        static int Topla(int x, int y)
+        {
+            return x + y;
+        }
+
+        private static void ActionDemo()
+        {
+            HandleException(() => { Find(); });
+        }
+
+        private static void TryCatch()
+        {
             try
             {
                 Find();
@@ -22,21 +54,6 @@ namespace Exceptions
             catch (Exception exception)
             {
             }
-            //Method
-            HandleException(() => { Find(); });
-
-
-
-
-
-
-
-
-
-
-
-
-            Console.ReadLine();
         }
 
         private static void HandleException(Action action)
