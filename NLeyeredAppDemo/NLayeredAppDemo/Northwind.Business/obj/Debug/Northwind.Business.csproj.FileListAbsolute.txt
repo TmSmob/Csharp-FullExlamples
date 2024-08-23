@@ -12,3 +12,6 @@ C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-Ful
 C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwin.70FD18CC.Up2Date
 C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.dll
 C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.pdb
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Business.dll.config
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.SqlServer.xml

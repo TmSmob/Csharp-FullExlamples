@@ -20,3 +20,4 @@ C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-Ful
 C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.WebForms\obj\Debug\Northwin.4490A3E2.Up2Date
 C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.WebForms\obj\Debug\Northwind.WebForms.exe
 C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.WebForms\obj\Debug\Northwind.WebForms.pdb
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.WebForms\bin\Debug\Northwind.Business.dll.config

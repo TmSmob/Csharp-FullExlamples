@@ -7,12 +7,9 @@ using Northwind.Entities.Abstract;
 
 namespace Northwind.Entities.Concrete
 {
-    public class Product:IEntity
+    public class Category:IEntity
     {
-        public int ProductId { get; set; }
-        public string ProductName { get; set; }
         public int CategoryId { get; set; }
-        public string Unit { get; set; }
-        public decimal Price { get; set; }
+        public string CategoryName { get; set; }
     }
 }
