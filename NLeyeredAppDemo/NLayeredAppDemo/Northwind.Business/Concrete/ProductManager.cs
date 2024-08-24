@@ -1,13 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Northwind.Business.Abstract;
+using Northwind.Business.ValidationRules.FluentValidation;
 using Northwind.DataAccess.Abstract;
 using Northwind.DataAccess.Concrete.EntityFramework;
+using FluentValidation;
 using Northwind.Entities.Concrete;
+using ValidationException = FluentValidation.ValidationException;
 
 namespace Northwind.Business.Concrete
 {
@@ -40,6 +44,12 @@ namespace Northwind.Business.Concrete
 
         public void Add(Product product)
         {
+            ProductValidator productValidator = new ProductValidator();
+            var result= productValidator.Validate(product);
+            if (result.Errors.Count>0)
+            {
+                throw new ValidationException(result.Errors);
+            }
            _IProductDal.Add(product);
         }
 
@@ -54,7 +64,7 @@ namespace Northwind.Business.Concrete
             {
                 _IProductDal.Delete(product);
             }
-            catch(DbUpdateException excaption)
+            catch
             {
                 throw new Exception("Silme Gerceklesemedi");
             }

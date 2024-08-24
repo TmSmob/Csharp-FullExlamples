@@ -84,16 +84,24 @@ namespace Northwind.WebForms
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            _productService.Add(new Product()
+            try
             {
-                CategoryId = Convert.ToInt32(cbxAddCategory.SelectedValue),
-                Price = Convert.ToDecimal(tbxAddPrice.Text),
-                ProductName = tbxAddProductName.Text,
-                Unit = tbxAddUnit.Text,
+                _productService.Add(new Product()
+                {
+                    CategoryId = Convert.ToInt32(cbxAddCategory.SelectedValue),
+                    Price = Convert.ToDecimal(tbxAddPrice.Text),
+                    ProductName = tbxAddProductName.Text,
+                    Unit = tbxAddUnit.Text,
 
-            });
-            LoadProducts();
-            MessageBox.Show(tbxAddProductName.Text + " isimli Urun Kayit edildi.");
+                });
+                LoadProducts();
+                MessageBox.Show(tbxAddProductName.Text + " isimli Urun Kayit edildi.");
+            }
+            catch (Exception exception)
+            {
+                MessageBox.Show(exception.Message);
+            }
+          
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)

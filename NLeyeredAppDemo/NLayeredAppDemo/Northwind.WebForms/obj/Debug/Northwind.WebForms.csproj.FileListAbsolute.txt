@@ -21,3 +21,9 @@ C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-Ful
 C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.WebForms\obj\Debug\Northwind.WebForms.exe
 C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.WebForms\obj\Debug\Northwind.WebForms.pdb
 C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.WebForms\bin\Debug\Northwind.Business.dll.config
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.WebForms\bin\Debug\FluentValidation.dll
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.WebForms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.WebForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.WebForms\bin\Debug\FluentValidation.xml
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.WebForms\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.WebForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
