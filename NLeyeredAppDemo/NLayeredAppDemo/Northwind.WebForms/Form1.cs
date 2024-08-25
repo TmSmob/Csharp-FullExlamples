@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using Norhtwind.DataAccess.Concrete.NHibernate;
 using Northwind.Business.Abstract;
 using Northwind.Business.Concrete;
+using Northwind.Business.DependencyResolvers.Ninject;
 using Northwind.DataAccess.Concrete.EntityFramework;
 using Northwind.Entities.Concrete;
 
@@ -20,8 +21,8 @@ namespace Northwind.WebForms
         public Form1()
         {
             InitializeComponent();
-            _productService = new ProductManager(new EfProductDal());
-            _categoryService = new CategoryManager(new EfCategoryDal());
+            _productService = InstanceFactory.GetInstance<IProductService>();
+            _categoryService = InstanceFactory.GetInstance<ICategoryService>();
         }
 
         private IProductService _productService;
@@ -106,16 +107,24 @@ namespace Northwind.WebForms
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            _productService.Update(new Product()
+            try
             {
-                ProductId = Convert.ToInt32(dgwProduct.CurrentRow.Cells[0].Value),
-                ProductName = tbxUpdateProductName.Text,
-                CategoryId = Convert.ToInt32(cbxUpdateCategory.SelectedValue),
-                Price = Convert.ToDecimal(tbxUpdatePrice.Text),
-                Unit = tbxUpdateUnit.Text,
-            });
-            LoadProducts();
-            MessageBox.Show(tbxUpdateProductName.Text + " isimli Urun Guncellendi.");
+                _productService.Update(new Product()
+                {
+                    ProductId = Convert.ToInt32(dgwProduct.CurrentRow.Cells[0].Value),
+                    ProductName = tbxUpdateProductName.Text,
+                    CategoryId = Convert.ToInt32(cbxUpdateCategory.SelectedValue),
+                    Price = Convert.ToDecimal(tbxUpdatePrice.Text),
+                    Unit = tbxUpdateUnit.Text,
+                });
+                LoadProducts();
+                MessageBox.Show(tbxUpdateProductName.Text + " isimli Urun Guncellendi.");
+            }
+            catch (Exception exception)
+            {
+                MessageBox.Show(exception.Message);
+            }
+           
 
         }
 

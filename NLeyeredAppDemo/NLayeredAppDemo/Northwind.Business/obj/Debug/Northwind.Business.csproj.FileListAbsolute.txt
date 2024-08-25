@@ -21,3 +21,5 @@ C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-Ful
 C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.Business\bin\Debug\FluentValidation.xml
 C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.Business\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.Business\bin\Debug\Ninject.dll
+C:\Users\batuh\OneDrive\Masaüstü\Emir Arac Gerec\EMİR ARAÇ GEREÇ\Csharp-FullExlamples\NLeyeredAppDemo\NLayeredAppDemo\Northwind.Business\bin\Debug\Ninject.xml
