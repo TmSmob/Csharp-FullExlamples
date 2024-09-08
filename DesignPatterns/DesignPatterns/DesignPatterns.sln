@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{B01F9439-6F00-4CF9-815F-1C516A3F6B27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{EB04C010-303D-43B9-B20B-B55F7EEF4B37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B01F9439-6F00-4CF9-815F-1C516A3F6B27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01F9439-6F00-4CF9-815F-1C516A3F6B27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01F9439-6F00-4CF9-815F-1C516A3F6B27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01F9439-6F00-4CF9-815F-1C516A3F6B27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB04C010-303D-43B9-B20B-B55F7EEF4B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB04C010-303D-43B9-B20B-B55F7EEF4B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB04C010-303D-43B9-B20B-B55F7EEF4B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB04C010-303D-43B9-B20B-B55F7EEF4B37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FAB093C-06E0-47C3-B492-9A24B1BD85BE}
+	EndGlobalSection
+EndGlobal
